@@ -29,7 +29,7 @@ crontabで、5月9日の2時に3分おきに実行する設定を書いてくだ
 
 ### 回答2
 
-*/3 2 5 9 /usr/local/bin/sample.sh
+*/3 2 5 9 * /usr/local/bin/sample.sh
 
 ## 課題② issue課題
 
